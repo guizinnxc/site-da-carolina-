@@ -1,0 +1,5 @@
+# FASE DE REVISÃO — o Google não indexa o site enquanto este bloco existir.
+# Lido pela Netlify e pela Cloudflare Pages.
+# >>> Antes do lançamento oficial, apague este arquivo e gere o build de novo. <<<
+/*
+  X-Robots-Tag: noindex, nofollow
